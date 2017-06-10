@@ -1,28 +1,27 @@
 body {
-	background:#999;
+	background:#f5deb3;
 	font-family: arial;
 	}
 	
 h1,h2, li {
 	color: #555;
 }	
-
 a {
-	color: green;
+	color: #004e00;
 }
 
 p {
 	backgound: #666;
-	color: white;
+	color: green;
 	padding: 10px;
 }
 
 .secondary{
-	background: none;
-	color: #777;
+	background: white;
+	color: #888;
 }
 
 #special{
-	background: pink;
-	color: #777;
+	background: #dd8899;
+	color: #555;
 }
